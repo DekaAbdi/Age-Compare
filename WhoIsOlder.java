@@ -1,4 +1,4 @@
-/* Deka Abdi
+/*
  * This programs determines who is older between 2 people
  */
 import java.util.Scanner;
